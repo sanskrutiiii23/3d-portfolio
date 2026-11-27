@@ -1,0 +1,164 @@
+{
+  "generatedAt": "2026-11-27T09:10:18.554Z",
+  "github": {
+    "latestPush": {
+      "repo": "sanskrutiiii23/tracewatt",
+      "message": "Merge pull request #2 from Raksha-qq/fix-simulation",
+      "pushedAt": "2026-11-15T06:17:15Z",
+      "commitUrl": "https://github.com/sanskrutiiii23/tracewatt/commit/0f2ecb8891a0b9eac899a4486405d12a32c74c75",
+      "repoUrl": "https://github.com/sanskrutiiii23/tracewatt"
+    },
+    "latestCommit": {
+      "repo": "sanskrutiiii23/tracewatt",
+      "message": "feat: fixed simulation",
+      "pushedAt": "2026-11-15T06:13:35Z",
+      "commitUrl": "https://github.com/sanskrutiiii23/tracewatt/commit/451a46eb18cdf99ab5669cb251cf38879428928b",
+      "repoUrl": "https://github.com/sanskrutiiii23/tracewatt"
+    },
+    "profileUrl": "https://github.com/sanskrutiiii23"
+  },
+  "projects": [
+    {
+      "title": "Tracewatt",
+      "impact": "Python project on GitHub.",
+      "stack": "Python",
+      "href": "https://github.com/sanskrutiiii23/tracewatt"
+    },
+    {
+      "title": "Ml Project",
+      "impact": "Jupyter Notebook project on GitHub.",
+      "stack": "Jupyter Notebook",
+      "href": "https://github.com/sanskrutiiii23/ml-project"
+    },
+    {
+      "title": "Full Frontend",
+      "impact": "JavaScript project on GitHub.",
+      "stack": "JavaScript",
+      "href": "https://github.com/sanskrutiiii23/full-frontend"
+    },
+    {
+      "title": "Landing Page",
+      "impact": "JavaScript project on GitHub.",
+      "stack": "JavaScript",
+      "href": "https://github.com/sanskrutiiii23/landing-page"
+    },
+    {
+      "title": "Frontend 1",
+      "impact": "JavaScript project on GitHub.",
+      "stack": "JavaScript",
+      "href": "https://github.com/sanskrutiiii23/frontend-1"
+    },
+    {
+      "title": "My Portfolio",
+      "impact": "JavaScript project on GitHub.",
+      "stack": "JavaScript",
+      "href": "https://github.com/sanskrutiiii23/my-portfolio"
+    },
+    {
+      "title": "Chef Groq",
+      "impact": "Chef Groq is an AI-powered recipe generator that helps users create recipes from ingredients they already have. Built with React, Tailwind CSS, and the Groq API, the app generates personalized recipes with detailed cooking instructions in seconds.",
+      "stack": "JavaScript",
+      "href": "https://github.com/sanskrutiiii23/chef_groq"
+    },
+    {
+      "title": "Data Extraction",
+      "impact": "Software project on GitHub.",
+      "stack": "Code",
+      "href": "https://github.com/sanskrutiiii23/data-extraction"
+    },
+    {
+      "title": "Bbsr",
+      "impact": "JavaScript project on GitHub.",
+      "stack": "JavaScript",
+      "href": "https://github.com/sanskrutiiii23/bbsr"
+    },
+    {
+      "title": "Space Debris",
+      "impact": "JavaScript project on GitHub.",
+      "stack": "JavaScript",
+      "href": "https://github.com/sanskrutiiii23/space-debris"
+    },
+    {
+      "title": "Superstore Dashboard",
+      "impact": "Python project on GitHub.",
+      "stack": "Python",
+      "href": "https://github.com/sanskrutiiii23/superstore-dashboard"
+    },
+    {
+      "title": "Python Projects",
+      "impact": "Python project on GitHub.",
+      "stack": "Python",
+      "href": "https://github.com/sanskrutiiii23/python_projects"
+    },
+    {
+      "title": "Taskflow",
+      "impact": "JavaScript project on GitHub.",
+      "stack": "JavaScript",
+      "href": "https://github.com/sanskrutiiii23/taskflow"
+    },
+    {
+      "title": "Weather App",
+      "impact": "JavaScript project on GitHub.",
+      "stack": "JavaScript",
+      "href": "https://github.com/sanskrutiiii23/weather_app"
+    },
+    {
+      "title": "Pizza Dashboard",
+      "impact": "Software project on GitHub.",
+      "stack": "Code",
+      "href": "https://github.com/sanskrutiiii23/Pizza-Dashboard"
+    },
+    {
+      "title": "Amazon Sales Dashboard",
+      "impact": "Software project on GitHub.",
+      "stack": "Code",
+      "href": "https://github.com/sanskrutiiii23/Amazon-Sales-Dashboard"
+    },
+    {
+      "title": "IPL Dashboard",
+      "impact": "An interactive IPL Dashboard built using Excel to analyze team performances, player statistics, match trends, and key insights through data visualization and dashboard design.",
+      "stack": "Code",
+      "href": "https://github.com/sanskrutiiii23/IPL-Dashboard"
+    },
+    {
+      "title": "Github Task2",
+      "impact": "HTML project on GitHub.",
+      "stack": "HTML",
+      "href": "https://github.com/sanskrutiiii23/github-task2"
+    },
+    {
+      "title": "Quiz App 2",
+      "impact": "CSS project on GitHub.",
+      "stack": "CSS",
+      "href": "https://github.com/sanskrutiiii23/quiz-app-2"
+    },
+    {
+      "title": "Tailwindcss Webwiz Task1",
+      "impact": "CSS project on GitHub.",
+      "stack": "CSS",
+      "href": "https://github.com/sanskrutiiii23/Tailwindcss-webwiz-task1"
+    },
+    {
+      "title": "Beyond Snacks Clone",
+      "impact": "A simple frontend clone of the Beyond Snack website made using HTML and CSS. Built for practice to improve my web development skills.",
+      "stack": "HTML",
+      "href": "https://github.com/sanskrutiiii23/Beyond-snacks-clone"
+    },
+    {
+      "title": "Coldplay Landing Page",
+      "impact": "A frontend landing fan page project of the band coldplay built with HTML and CSS",
+      "stack": "CSS",
+      "href": "https://github.com/sanskrutiiii23/coldplay-landing-page"
+    },
+    {
+      "title": "Netflix Clone",
+      "impact": "A simple frontend clone of the Netflix website made using HTML and CSS. Built for practice to improve my web development skills.",
+      "stack": "CSS",
+      "href": "https://github.com/sanskrutiiii23/Netflix-clone"
+    }
+  ],
+  "spotify": {
+    "widgetUrl": "https://spotify-recently-played-readme.vercel.app/api?user=oj1xerhb9fby7dckdhp0yw3no&unique=true",
+    "profileUrl": "https://github.com/sanskrutiiii23"
+  }
+}
