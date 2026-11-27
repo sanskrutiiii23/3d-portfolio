@@ -31,7 +31,7 @@
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "@vitejs/plugin-react": "latest",
-    "autoprefixer": "^10.5.0",
+    "autoprefixer": "^10.7.0",
     "clsx": "^2.1.1",
     "postcss": "^8.5.14",
     "tailwind-merge": "^3.5.0",
